@@ -2,7 +2,7 @@
 
 ## Task 1
 
-- `Fork` the this repo.  
+- `Fork` this repo.  
 
 - `clone` your forked repo onto your local system.
 
