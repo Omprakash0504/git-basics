@@ -17,7 +17,9 @@
     ``` txt
     <Your name>
 
-    <Your branch, section and year>
+    <Your branch>
+
+    <Year>
 
     <Your Registration Number>
 
