@@ -1,4 +1,5 @@
-Name - Test
-Year - 2022
-Branch - CSE
-Hobby - Test, Testing
+Piyush Pandey
+Computer Science and Engineering 
+3rd
+1901110064
+I love to code. (write more about yourself)
