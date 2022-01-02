@@ -1,28 +1,34 @@
-# Git Learning Tasks
+# Learning Git
 
-`Step 1 - clone this repository to your local machine`
+## Task 1
 
-`Step 2 - open the folder where you have cloned this repo`
+- `Fork` the EnigmaVSSUT/Induction2021 repo.  
 
-## Task - 1
+- `clone` your forked repo onto your local system.
 
-----
-This task here is that everyone must create a folder with your name and with a `me.txt` file containing your Name, Branch, Year, Hobby inside the `Task-1` folder.
+- Create a new file having the following specifications
 
-All of you must make your own branch and add the data there and push it.
+    **File name** - Your-Name.txt
 
-`Step 1 - make your own branch with your full name`
+    **File Location to be created in** -  `Task-1`
 
-Ex. Piyush Pandey ranch name - `piyushpandey`
+    **File content**:-
 
-`Step 2 - Create folder with your name and a file with me.txt inside the Task-1 folder`
+    ``` txt
+    <Your name>
 
-`Step 3 - stagged the changes`
+    <Your branch, section and year>
 
-`Step 4 - Commit the changes`
+    <Your Registration Number>
 
-`Step 5 - Push the changes`
+    <A few lines about yourself>
 
-----
+    ```
 
-### For any doubts reach out us in the whatsapp group and also search for the commands in google
+> An example is already there in `Task-1` named `test.txt`.
+
+**Example**: [test.txt](test.txt)
+
+- Now commit your changes and push your file to your forked repo and create a `PR(pull-request)`.
+
+### If you have any problem then do reach us and also you can google things
