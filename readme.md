@@ -2,7 +2,7 @@
 
 ## Task 1
 
-- `Fork` the EnigmaVSSUT/Induction2021 repo.  
+- `Fork` the this repo.  
 
 - `clone` your forked repo onto your local system.
 
