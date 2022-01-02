@@ -7,7 +7,7 @@
 ## Task - 1
 
 ----
-This task here is that everyone must create a folder with your name and with a `me.txt` file containing your Name, Branch, Year, Field of interest inside the `Task-1` folder.
+This task here is that everyone must create a folder with your name and with a `me.txt` file containing your Name, Branch, Year, Hobby inside the `Task-1` folder.
 
 All of you must make your own branch and add the data there and push it.
 
