@@ -27,7 +27,7 @@
 
 > An example is already there in `Task-1` named `test.txt`.
 
-**Example**: [test.txt](test.txt)
+**Example**: [test.txt](./Task-1/test.txt)
 
 - Now commit your changes and push your file to your forked repo and create a `PR(pull-request)`.
 
